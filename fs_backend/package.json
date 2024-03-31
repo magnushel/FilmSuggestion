@@ -1,0 +1,14 @@
+{
+  "name": "fs_backend",
+  "version": "1.0.0",
+  "description": "Something",
+  "main": "index.js",
+  "scripts": {
+    "test": "run tests"
+  },
+  "author": "Magnús Friðrik Helgason",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
