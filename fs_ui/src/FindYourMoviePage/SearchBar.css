@@ -1,0 +1,14 @@
+.search-container {
+    display: flex;
+    justify-content: center; /* Center the search bar horizontally */
+    padding: 20px; /* Add some space around the search bar */
+  }
+  
+  .search-input {
+    width: 60%; /* Adjust based on preference */
+    padding: 10px;
+    font-size: 16px; /* Adjust based on preference */
+    border: 2px solid #ccc; /* Example styling */
+    border-radius: 5px; /* Rounded corners */
+  }
+  

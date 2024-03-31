@@ -1,0 +1,9 @@
+.HomescreenMain {
+    width: 100vw; /* Viewport width: ensures the div takes the full width of the viewport */
+    height: 100vh; /* Viewport height: ensures the div takes the full height of the viewport */
+    background-image: url('./homescreen_main.png'); /* Adjust if your image is in a different directory */
+    background-size: cover; /* Cover ensures that the background image covers the entire div */
+    background-position: center; /* Centers the background image in the div */
+    background-repeat: no-repeat; /* The image will not repeat */
+  }
+  
